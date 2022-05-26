@@ -5,6 +5,8 @@
 
 # VIDEO-TRANSCRIPT 
 
+#### LINK: https://transcript-video.herokuapp.com/
+
 # FEATURES
 > * A website to get transcription of audio in a video 
 > * Using HTML, CSS, JS for frontend
